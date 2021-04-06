@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Sou Filipe Nascimento Costa Soares</h1>
 <h3 align="center">Vivo tentando aprender novas tecnologias.</h3>
 
-- 💻Formado em Técnico em Informática **IFPB**
+- 💻Formado em Técnico em Informática pelo **IFPB**
 
-- 👨‍💻Graduando em Ciência da Computação **Unipê**
+- 👨‍💻Graduando em Ciência da Computação pelo **Unipê**
 - 💻Estagiário Desenvolvedor de Sistemas na **UNIMED João Pessoa**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
