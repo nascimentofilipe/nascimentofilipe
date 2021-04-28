@@ -13,6 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/filipindie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="filipindie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/filipe-nascimento-costa-soares-602bb11b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/filipe-nascimento-costa-soares-602bb11b4/" height="30" width="40" /></a>
-<a href="https://instagram.com/filipindie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="filipindie" height="30" width="40" /></a>
+<a href="https://instagram.com/filipe-acht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="filipindie" height="30" width="40" /></a>
 </p>
 
