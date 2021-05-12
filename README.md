@@ -1,15 +1,17 @@
-<h1 align="center">Olá 👋, Sou Filipe Nascimento Costa Soares</h1>
-<h3 align="center">Vivo tentando aprender novas tecnologias.</h3>
+<h1 align="center">Hi 👋, I'm, Filipe Nascimento Costa Soares</h1>
+<h3 align="center">In love with Oracle Application Express</h3>
 
-- 💻 Formado em Técnico em Informática pelo **IFPB**
+- 💻 Graduated in Computer Technician **IFPB**
 
-- 💻 Graduando em Ciência da Computação pelo **Unipê**
-- 👨‍💻Estagiário Desenvolvedor de Sistemas na **UNIMED João Pessoa**
+- 💻 Computer Science Undergraduate **Unipê**
 
-<h3 align="left">Estou também em:</h3>
+- 👨‍💻Currently working as a Systems Developer **UNIMED João Pessoa**
+
+<h3 align="left">I'm here too:</h3>
 <p align="left">
 <a href="https://twitter.com/filipindie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="filipindie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/filipe-nascimento-costa-soares-602bb11b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/filipe-nascimento-costa-soares-602bb11b4/" height="30" width="40" /></a>
 <a href="https://instagram.com/filipe_acht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="filipindie" height="30" width="40" /></a>
+<a href="https://stackexchange.com/users/21429571/filipe-costa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="filipindie" height="30" width="40" /></a>
 </p>
 
