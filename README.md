@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm, Filipe Nascimento Costa Soares</h1>
+<h1 align="center">Hi 👋, I'm Filipe Nascimento Costa Soares</h1>
 <h3 align="center">In love with Oracle Application Express</h3>
 
 - 💻 Graduated in Computer Technician **IFPB**
