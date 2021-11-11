@@ -5,7 +5,7 @@
 
 - 💻 Computer Science Undergraduate **Unipê**
 
-- 👨‍💻Currently working as a Systems Developer **UNIMED João Pessoa**
+- 👨‍💻Currently working as a Systems Analyst **UNIMED João Pessoa**
 
 <h3 align="left">I'm here too:</h3>
 <p align="left">
