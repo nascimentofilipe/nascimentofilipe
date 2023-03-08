@@ -2,6 +2,6 @@
 
 - 💻 Técnico em Informática pelo **IFPB**
 
-- 💻 Graduando em CST Análise e Desenvolvimento de Sistemas na **UNICSUL**
+- 💻 CST Análise e Desenvolvimento de Sistemas na **UNICSUL**
 
-- 👨‍💻 Atualmente trabalho como Analista Junior na **UNIMED João Pessoa**
+- 👨‍💻 Atualmente trabalho como Java e Mobile Developer na **UNIMED João Pessoa**
