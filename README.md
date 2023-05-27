@@ -4,4 +4,4 @@
 
 - 💻 CST Análise e Desenvolvimento de Sistemas na **UNICSUL**
 
-- 👨‍💻 Atualmente trabalho como Java e Mobile Developer na **UNIMED João Pessoa**
+- 👨‍💻 Atualmente trabalho como desenvolvedor Java e Mobile na **UNIMED João Pessoa**
