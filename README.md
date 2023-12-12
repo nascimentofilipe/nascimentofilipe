@@ -3,5 +3,3 @@
 - 💻 Técnico em Informática pelo **IFPB**
 
 - 💻 CST Análise e Desenvolvimento de Sistemas na **UNICSUL**
-
-- 👨‍💻 Atualmente trabalho como desenvolvedor Java e Mobile na **UNIMED João Pessoa**
