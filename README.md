@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Filipe Nascimento Costa Soares</h1>
-<h2>23 anos, casado e tenho graduação em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.</h2>
+- 23 anos, casado e tenho graduação em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.</h2>
 
 - Sou um Analista, Desenvolvedor e Programador com mais de 2 anos de experiência e em constante aperfeiçoamento, apaixonado por novas tecnologias, desafios e por soluções simples para problemas difíceis. 
 
