@@ -1,6 +1,7 @@
-<h1 align="center">Olá 👋, Me chamo Filipe Nascimento Costa Soares</h1>
+<h1 align="center">Hi 👋, I’m Filipe Soares.</h1>
 
-<p>24 anos, casado e tenho graduação em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Sou um Analista, Desenvolvedor e Programador com mais de 2 anos de experiência e em constante aperfeiçoamento, apaixonado por novas tecnologias, desafios e por soluções simples para problemas difíceis.</p>
-<p>Tenho facilidade e rapidez para aprender novas ferramentas, adéquo-me rapidamente a rotina e estrutura da empresa à qual prestarei serviço com excelência, comprometimento e entrega de resultados. Tenho um bom espírito de equipe tendo flexibilidade e facilidade para trabalhar em conjunto e altamente comunicativo.
+<p>I’m 24 years old, married, and hold a degree in Systems Analysis and Development from Cruzeiro do Sul University.
+I work as an Analyst, Developer, and Programmer, with over 3 years of experience. I’m always striving to improve my skills and stay up-to-date with the latest technologies. I thrive on challenges and enjoy creating simple solutions for complex problems.</p>
+<p>I’m a quick learner, easily adapting to new tools, company routines, and structures. I approach my work with dedication, delivering excellent results. Teamwork comes naturally to me—I’m flexible, collaborative, and highly communicative.
 </p>
   
